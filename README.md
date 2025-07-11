@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Shweta Sharma
 
-<!--
-**ssshivi/ssshivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **About Me**
+A Full Stack Developer specializing in Shopify and web apps.
+- 🎯 Passionate about delivering high-quality code and design.
+- 📫 Contact me: [your email] | [LinkedIn]
 
-Here are some ideas to get you started:
+📜 Backend:
+Language: Java, PHP, Python, JavaScript, TypeScript
+Framework: Laravel, WordPress, Next.js, CakePHP, CodeIgniter
+Databases: SQL, MySQL, MongoDB, PostgreSQL
+API: REST, SOAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Frontend:
+Language: JavaScript, TypeScript
+Framework/Library: React, Angular, 
+🌱 I’m currently learning ... More AI and Machine Learning
+👯 Currently contributing to Open Source
