@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Shweta Sharma
 
 🌱 **About Me**
-A Full Stack Developer specializing in Shopify and web apps.
-- 🎯 Passionate about delivering high-quality code and design.
+🌟 I am a software developer specializing in:
+- 🛍️ Shopify Apps
+- 🤖 AI Chatbots (LangChain, OpenAI, Hugging Face)
+- 🌐 Web Development (HTML, CSS, JavaScript, PHP, Python)
 - 📫 Contact me: [your email] | [LinkedIn]
 
 📜 Backend:
