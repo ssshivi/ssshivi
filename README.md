@@ -6,13 +6,13 @@ A Full Stack Developer specializing in Shopify and web apps.
 - 📫 Contact me: [your email] | [LinkedIn]
 
 📜 Backend:
-Language: Java, PHP, Python, JavaScript, TypeScript
-Framework: Laravel, WordPress, Next.js, CakePHP, CodeIgniter
-Databases: SQL, MySQL, MongoDB, PostgreSQL
-API: REST, SOAP
+- Language: Java, PHP, Python, JavaScript, TypeScript
+- Framework: Laravel, WordPress, Next.js, CakePHP, CodeIgniter
+- Databases: SQL, MySQL, MongoDB, PostgreSQL
+- API: REST, SOAP
 
 🔭 Frontend:
-Language: JavaScript, TypeScript
-Framework/Library: React, Angular, 
+- Language: JavaScript, TypeScript
+- Framework/Library: React, Angular, 
 🌱 I’m currently learning ... More AI and Machine Learning
 👯 Currently contributing to Open Source
